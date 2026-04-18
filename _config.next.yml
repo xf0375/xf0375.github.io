@@ -1,0 +1,14 @@
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-folder-open
+  tags: /tags/ || fa fa-tags
+  about: /about/ || fa fa-user
+  projects: /projects/ || fa fa-briefcase
+
+social:
+  GitHub: https://github.com/xf0375 || fab fa-github
+  E-Mail: mailto:2214900084@qq.com || fa fa-envelope
+
+social_icons:
+  enable: true
